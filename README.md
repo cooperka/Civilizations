@@ -1,5 +1,4 @@
-Civilizations
-=============
+# Civilizations
 
 A NetLogo simulation designed to model "civilization"-style games such as Age of Empires, to explore competitive strategies for gameplay.
 
@@ -15,9 +14,7 @@ A NetLogo simulation designed to model "civilization"-style games such as Age of
 1. Press `setup` to randomly distribute resources and civilizations around the map
 2. Press `go` to run the simulation
 
-[Picture of random initial setup](https://github.com/cooperka/Civilizations/blob/master/images/ss_1.png)
-
-[Picture of red civilization victory](https://github.com/cooperka/Civilizations/blob/master/images/ss_2.png)
+![Screenshot of red civilization victory](/screenshots/victory.png "Screenshot of red civilization victory")
 
 You can look at the [presentation](https://github.com/cooperka/civilizations/blob/master/Civilizations%20Presentation.pdf) to get some idea of how it works, but if you've never used NetLogo before, there's really no better way to learn than to just run it yourself and see what happens.
 
@@ -27,8 +24,8 @@ As a final project for Complex Systems 270, we were asked to write a NetLogo sim
 
 I chose a "civilization" simulator which, at an abstract level, models the complex interactions between warring societies competing for resources. Because this would have been way too difficult to accomplish within the couple weeks we were given, I instead used the model to analyze gameplay strategies for games like Age of Empires. The findings are available in my [report](https://github.com/cooperka/Civilizations/blob/master/Civilizations%20Report.pdf).
 
-Note:
-All the code here is in its original form, and hasn't been modified since I wrote it in 2013.
+*Note:
+All the code here is in its original form, and hasn't been modified since I wrote it in 2013.*
 
 ## Contributing
 
